@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/BNG Framework/Scenes/Scene Transitioning.unity
-    guid: 9d7c9629abf9c99449e358b0938b47d0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/BNG Framework/Scenes/Physics Hands.unity
     guid: 34a4579517c578e4080d0a6ef2c96294
@@ -20,9 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VRIF Shooter Game Scene.unity
     guid: 79941db01a19db9439c1c4c8e371d946
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Intro Start Scene.unity
-    guid: a1360534006d3f845bc79b46b93cfec5
+    guid: e4b727bb21d35cb4387f33f7a90f6a9a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 88235d09c803af040bfea3cf4e707a64,
       type: 2}
